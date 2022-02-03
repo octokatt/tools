@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # First attempt to create a Bash script
+# TODO: Maybe some light journaling?  ala Stoic app?
+# TODO: This should also get aliased
 # by Katt Kennedy
 
 TITLE=$1
